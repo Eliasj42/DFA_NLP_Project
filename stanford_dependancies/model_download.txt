@@ -1,0 +1,3 @@
+#The language model is too large to ipload to git.  DOwnload it here
+
+http://nlp.stanford.edu/software/stanford-english-corenlp-2018-02-27-models.jar
